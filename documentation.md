@@ -8,4 +8,11 @@
 8. u components folderu kreiramo Navbar.jsx komponentu
 9. otvaramo i uredujemo Navbar.jsx komponentu
 10. u terminalu instaliramo paket react-icons
-11. 
+11. u components folderu kreiramo Offers.jsx komponentu
+12. otvaramo i uredujemo Offers.jsx komponentu
+13. u components folderu kreiramo Plan.jsx komponentu
+14. otvaramo i uredujemo Plax.jsx komponentu
+15. u components folderu kreiramo Rooms.jsx komponentu
+16. otvaramo i uredujemo Rooms.jsx komponentu
+17. u components folderu kreiramo ImageSlider.jsx komponentu
+18. otvaramo i uredujemo ImageSlider.jsx komponentu

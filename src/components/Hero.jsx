@@ -17,7 +17,7 @@ const Hero = () => {
                 <p>All Inclusive</p>
                 <h1 className='font-bold text-5xl md:text-7xl drop-shadow-2xl'>Private Beaches & Getaways</h1>
                 <p className='max-w-[600px] drop-shadow-2xl py-2 text-xl'>The Maldives is a tropical nation made up of 26 atolls located in the Indian Ocean. It is known for its crystal clear waters, white sandy beaches, and vibrant coral reefs, making it a popular destination for beach vacations. </p>
-                <button className='bg-[#f5f5f5] text-[#333]'>Reserve Now</button>
+                <button className='bg-[#f5f5f5] text-[#333] font-bold  hover:bg-[#fff]'>Reserve Now</button>
             </div>
         </div>
 

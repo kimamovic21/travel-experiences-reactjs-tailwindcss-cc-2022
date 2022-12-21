@@ -16,7 +16,7 @@ const Navbar = () => {
 };
 
   return (
-    <nav className='absolute w-full flex justify-between p-4 items-center'>
+    <nav className='fixed w-full flex justify-between p-4 items-center bg-black/40 z-10'>
         <h2 className='text-[#f5f5f5] font-bold text-2xl z-10'>Experiences</h2>
         <FaBars onClick={handleNav} className='z-20 text-[#f5f5f5] cursor-pointer' size={30}/>
         <div className={
