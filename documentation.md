@@ -14,5 +14,10 @@
 14. otvaramo i uredujemo Plax.jsx komponentu
 15. u components folderu kreiramo Rooms.jsx komponentu
 16. otvaramo i uredujemo Rooms.jsx komponentu
+(ReactJS Carousel)
 17. u components folderu kreiramo ImageSlider.jsx komponentu
 18. otvaramo i uredujemo ImageSlider.jsx komponentu
+(u components folderu kreiramo ImageSlider2.jsx komponentu )
+(otvaramo i uredujemo ImageSlider2.jsx komponentu)
+19. u components folderu kreiramo Footer.jsx komponentu
+20. otvaramo i uredujemo Footer.jsx komponentu

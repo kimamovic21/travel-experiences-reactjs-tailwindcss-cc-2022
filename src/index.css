@@ -15,4 +15,8 @@ body {
   button {
     @apply border py-2 px-3 rounded-full bg-sky-700 text-[#f5f5f5]
   }
+  
+  li {
+    @apply py-1
+  }
 }
