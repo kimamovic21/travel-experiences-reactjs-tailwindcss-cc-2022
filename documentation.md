@@ -21,3 +21,11 @@
 (otvaramo i uredujemo ImageSlider2.jsx komponentu)
 19. u components folderu kreiramo Footer.jsx komponentu
 20. otvaramo i uredujemo Footer.jsx komponentu
+
+
+Github Pages
+1.  "homepage": "https://kimamovic21.github.io/travel-experiences-reactjs-tailwindcss-cc-2022"
+2. npm i gh-pages --save-dev
+3. "predeploy": "npm run build",
+4. "deploy" : "gh-pages -d build",
+5. npm run deploy
