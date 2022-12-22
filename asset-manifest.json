@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/travel-experiences-reactjs-tailwindcss-cc-2022/static/css/main.6697058a.css",
+    "main.js": "/travel-experiences-reactjs-tailwindcss-cc-2022/static/js/main.90bcc0a8.js",
+    "index.html": "/travel-experiences-reactjs-tailwindcss-cc-2022/index.html",
+    "main.6697058a.css.map": "/travel-experiences-reactjs-tailwindcss-cc-2022/static/css/main.6697058a.css.map",
+    "main.90bcc0a8.js.map": "/travel-experiences-reactjs-tailwindcss-cc-2022/static/js/main.90bcc0a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6697058a.css",
+    "static/js/main.90bcc0a8.js"
+  ]
+}
